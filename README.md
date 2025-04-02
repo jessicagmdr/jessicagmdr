@@ -53,6 +53,7 @@ Whether exploring datasets or particle collisions, I'm driven by uncovering hidd
 
 **🔭 Research Assistant in Theoretical Physics** *(UFC, 2020–2021)*  
 - Quantum Field Theory and Gravitation
+- Particle Physics: Skyrmions
 
 ---
 
